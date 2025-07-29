@@ -27,10 +27,10 @@ Este projeto tem como objetivo demonstrar a automação de testes para uma API p
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/rfausto/restassured-api-tests.git
 2. Acesse o diretório do projeto
    ```bash
-   cd seu-repositorio
+   cd restassured-api-tests
 3. Execute os testes com o Maven
    ``` bash
    mvn test
